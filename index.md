@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-## Paulina Sokal
+### Paulina Sokal
 
 ## 📜 About Me  
 Hi there! 👋 My name is **Paulina**, and I’m a passionate Data Scientist 📊, machine learning enthusiast 🤖, and pattern explorer 🔍. With over **5 years of experience** in the tech industry, I combine programming skills with deep business insights to create innovative solutions.  
