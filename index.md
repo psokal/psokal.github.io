@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-# 🌟 Welcome to My Data Scientist Portfolio! 🌟
+
 
 ## 📜 About Me  
 Hi there! 👋 My name is **Paulina Sokal**, and I’m a passionate Data Scientist 📊, machine learning enthusiast 🤖, and pattern explorer 🔍. With over **5 years of experience** in the tech industry, I combine programming skills with deep business insights to create innovative solutions.  
@@ -17,8 +17,8 @@ I love **using data to solve real-world problems** and believe that well-crafted
 
 ## 🛠️ My Skills  
 ### **Programming Languages and Tools**  
-- **Python** 🐍 (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)  
-- **SQL** 🛢️ (query optimization, database design)  
+- **Python** 🐍 (Pandas, NumPy, Scikit-learn)  
+- **SQL** 🛢️ 
 
 
 ### **Specializations**  
