@@ -11,11 +11,11 @@ title: "Paulina Sokal"
 ## 📜 About Me  
 Hi! I’m a Data Scientist who loves working with data 📊. I enjoy finding patterns, solving problems, and turning data into useful insights that help make better decisions.
 
-I work mostly with Python, SQL, and machine learning, and I like creating tools that make data analysis easier and smarter 🤖. I’m always curious to learn new things and improve my skills — from data visualization to automation and AI.
+I work mostly with Python, SQL, and machine learning, and I like creating tools that make data analysis easier and smarter 🤖. I’m always curious to learn new things and improve my skills, from data visualization to automation and AI.
 
-What I love most about data science is that it combines logic, creativity, and real impact. Every dataset tells a story, and I enjoy discovering what’s behind the numbers 💡.
+What I love most about data science is that it combines logic, creativity, and real impact. Every dataset tells a story, and I enjoy discovering what’s behind the numbers 💡
 
-When I’m not coding, you’ll probably find me reading Stanisław Lem — his books inspire me to think about technology, intelligence, and the future 🚀.
+When I’m not coding, you’ll probably find me reading Stanisław Lem. His books inspire me to think about technology, intelligence, and the future 🚀
 
 ---
 
