@@ -22,7 +22,7 @@ I work with the foundations that make data useful: integrating sources, building
 
 My experience includes preparing financial data for a global model covering over $100 trillion in assets, improving recurring ETL workflows and analysing ML test results. I have compared model configurations, supported parameter selection and used Human-in-the-Loop feedback to address recurring data quality issues.
 
-A background in physics informs how I approach technical problems: examine assumptions, compare results and investigate what causes a difference. 🚀
+A background in physics informs how I approach technical problems: examine assumptions, compare results and investigate what causes a difference. 
 
 ---
 
