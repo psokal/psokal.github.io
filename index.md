@@ -33,7 +33,7 @@ I have built and maintained approximately 20 ETL pipelines for monthly and quart
 
 ### Processing efficiency and reliability
 
-I improved approximately 20 ETL workflows, increasing automation and data quality. Selected processes completed 2–4 hours faster.
+I improved approximately 20 ETL workflows, increasing automation and data quality. Selected processes completed 1–2 hours faster.
 
 ### Data preparation for machine learning
 
