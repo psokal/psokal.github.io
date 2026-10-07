@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Paulina Sokal"
   avatar : "/assets/images/psok.jpg"
-  bio    : "Data Scientist"
+  bio    : "AI Engineer"
   links:   
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
